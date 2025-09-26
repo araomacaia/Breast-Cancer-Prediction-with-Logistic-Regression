@@ -82,9 +82,13 @@ Figures and reports saved in the `outputs/` folder:
 ---
 
 ## 📚 Acknowledgements & References
-This project was inspired by tutorials, textbooks, and open-source resources on data science and logistic regression.  
+This project was inspired by tutorials, textbooks, and open-source resources on data science and logistic regression.
+
+These resources helped me understand both the practical implementation of logistic regression in Python and the theoretical foundations behind regression analysis, coefficient interpretation, and model validation.
 
 ### Books and Papers Consulted
+I used the following resources while working on this project, both for coding implementation and theoretical understanding of logistic regression:
+
 1. *A Comparison of Classification/Regression Trees and Logistic Regression in Failure Models* — Irimia-Dieguez, A.I., Blanco-Oliver, A., Vazquez-Cueto, M.J. (2nd GLOBAL CONFERENCE on Business, Economics, Management and Tourism, 2014).  
 2. *An Introduction to Logistic Regression: From Basic Concepts to Interpretation with Particular Attention to Nursing Domain* — Park, Hyeoun-Ae, Seoul National University, Korea.  
 3. *Comparing performances of logistic regression, classification and regression tree, and neural networks for predicting coronary artery disease* — Imran Kurt, Mevlut Ture, A. Turhan Kurum.  
@@ -100,5 +104,6 @@ This project was inspired by tutorials, textbooks, and open-source resources on 
 ---
 
 ## ✍️ Author
-*Arao Zau Macaia*  
-Electronics and Communication Engineering Student | Data Science & Machine Learning Enthusiast  
+Arao Macaia
+
+AI & ML Internship Task 3 (2025)
